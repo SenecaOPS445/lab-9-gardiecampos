@@ -43,4 +43,6 @@
 ## db-[99:101]-node.example.com
 
 [ops445]
+lgcampos myvmlab.senecapolytechnic.ca:6768
 jkwok	ansible_host=myvmlab.senecapolytechnic.ca ansible_port=7850
+vmlab ansible_host=myvmlab.senecapolytechnic.ca ansible_port=6768 ansible_user=student
